@@ -1,7 +1,11 @@
-export class Hero {
-  id: number;
-  name: string;
+button.delete-button{
+  float:right;
+  background-color: gray !important;
+  color:white;
 }
+
+
+
 
 
 /*

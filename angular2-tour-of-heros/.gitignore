@@ -1,3 +1,7 @@
+# project specific
+app/*.component.js
+app/*.component.js.map
+
 # Logs
 logs
 *.log
