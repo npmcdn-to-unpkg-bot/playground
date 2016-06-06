@@ -1,6 +1,6 @@
 # project specific
-app/*.component.js
-app/*.component.js.map
+angular2-tour-of-heros/app/*.js
+angular2-tour-of-heros/app/*.js.map
 
 # Logs
 logs
